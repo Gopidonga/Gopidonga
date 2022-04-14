@@ -2,18 +2,15 @@
 
 <h1>Hallo. I'm  Gopi Donga </h1>
  
+<!--  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
+
+<img align="right" alt="GIF" src="https://cdn.80.lv/api/upload/content/ca/5d2886fa5e240.gif" width="500" height="320" />
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on  Somthing  Hot ..
-- 🌱 I’m currently learning SwiftUI..
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Gopidonga&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+- 🔭 I’m currently working on Somthing Hot as cup of tea
+- 🌱 I’m currently learning Dapps..
+- 📫 How to reach me: <a href="https://in.linkedin.com/in/gopi-donga-2788a3179">LinkedIn</a>
+- 🤫 Fun fact: I love swift caz its drag and drop storyboard controller
 
 **Languages and Tools:**  
 
@@ -22,10 +19,15 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gopidonga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gopidonga&show_icons=true&theme=radical) -->
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dongagopi5"> <img align="center" src="https://runaway-withme.com/wp-content/themes/runaway-withme/assets/images/tea-button.png" height="50" width="210" alt="Gopidonga" /></a></p>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gopidonga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gopidonga&show_icons=true&theme=radical) -->
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Gopidonga&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
