@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>Hallo. I'm  Gopi Donga </h1>
+<h1>Hello. I'm  Gopi Donga </h1>
  
 <!--  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
